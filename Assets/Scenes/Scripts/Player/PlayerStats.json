@@ -1,0 +1,9 @@
+﻿{
+  "playerStats": {
+    "health": 100,
+    "walkSpeed": 5,
+    "runSpeed": 10,
+    "money": 1000,
+    "energy": 100
+  }
+}
